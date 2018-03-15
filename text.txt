@@ -1,0 +1,6 @@
+Byli jste někdy ve výtahu a říkali si proč tak dlouho nejede? My také a tak jsme se to rozhodli změnit. Vyvořili jsme proto unikátní algoritmy pro řízení výtahů, tak aby byl cestující co nejvíce spokojen.
+Konkrétně jsme si dali za úkol porovnat jednotlivé algoritmy v různých prostředích. (Ať už jde o jiné ovládací prvky výtahu nebo výtahy s jiným zrychlením.) Pomocí těchto srovnání jsme určili jaké algoritmy se kde chovají nejlépe.
+Nejdříve jsme si teoreticky vytvořili různé algoritmy, nasledně jsme naprogramovali virtuální prostředí a poté otestovali efektivitu jednotlivých agentů.
+Porovnali jsme jednotlivé algoritmy a získali jsme jejich jednoznačné pořadí v běžných podmínkách. Konkrétně jsme počítali průměrný čas dopravy v budově s deseti patry středně vytíženou cestujícími.
+Předpokládaná efektivita našich programů se potvrdila.
+
